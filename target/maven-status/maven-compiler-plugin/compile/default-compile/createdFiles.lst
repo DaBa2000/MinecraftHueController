@@ -1,0 +1,8 @@
+com/rlxo/huemc/HueMCController.class
+com/rlxo/huemc/HueMCController$BindingType.class
+com/rlxo/huemc/HueBridgeClient$HueLight.class
+com/rlxo/huemc/HueMCController$PendingBinding.class
+com/rlxo/huemc/HueMCController$LeverBinding.class
+com/rlxo/huemc/HueBridgeClient$RegistrationResult.class
+com/rlxo/huemc/HueBridgeClient.class
+com/rlxo/huemc/HueBridgeClient$ActionResult.class

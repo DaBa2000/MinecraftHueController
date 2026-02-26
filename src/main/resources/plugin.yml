@@ -1,0 +1,18 @@
+name: HueMCController
+version: 1.0
+main: com.rlxo.huemc.HueMCController
+api-version: 1.21
+description: Control Philips Hue lights from Minecraft
+commands:
+  bridge:
+    description: Configure Hue bridge IP and pair
+    usage: /bridge set <ip>
+  lights:
+    description: Turn Hue lights on or off
+    usage: /lights <on|off>
+  list:
+    description: List Hue resources
+    usage: /list lights
+  set:
+    description: Bind a lever to a light or scene
+    usage: /set <light <name>|scene>
